@@ -7,6 +7,9 @@ export function Header() {
 			<Title className={s.title} ta="center" mt={100}>
 				header
 			</Title>
+			<Title className={s.title} ta="center" mt={100}>
+				header
+			</Title>
 			<ColorSchemeToggle />
 		</section>
 	);

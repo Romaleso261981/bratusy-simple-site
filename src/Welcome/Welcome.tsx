@@ -14,15 +14,7 @@ export function Welcome() {
         >
           Mantine
         </Text>
-        <Text
-          inherit
-          variant="gradient"
-          component="span"
-          gradient={{ from: "pink", to: "yellow" }}
-        >
-          Mantine
-        </Text>
-      </Title>
+              </Title>
       <Text color="dimmed" ta="center" size="lg" maw={580} mx="auto" mt="xl">
         This starter Vite project includes a minimal setup, if you want to learn
         more on Mantine + Vite integration follow{" "}
